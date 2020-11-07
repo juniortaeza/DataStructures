@@ -1,4 +1,4 @@
-# DataStructures-Algorithms
+# datastructures
 
 Data Structures and Algorithms. 
 
